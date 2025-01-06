@@ -558,3 +558,6 @@
     max-width: 100%;
   }
 }
+.main-box-section {
+  flex: 1;
+}
