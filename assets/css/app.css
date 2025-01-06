@@ -23,25 +23,6 @@ body {
   box-sizing: border-box;
 }
 
-html, body {
-  height: 100%;
-  margin: 0;
-}
-
-.wrapper {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-}
-
-.main-box-section {
-  flex: 1;
-}
-
-.footer-section {
-  margin-top: auto;
-}
-
 .wrapper .background-section {
   background: url("../img/background.jpg") no-repeat center center;
   background-size: cover;
